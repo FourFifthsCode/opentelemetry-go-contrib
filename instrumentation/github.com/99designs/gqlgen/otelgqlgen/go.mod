@@ -12,7 +12,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/vektah/gqlparser/v2 v2.1.0
 	go.opentelemetry.io/contrib v0.0.0-00010101000000-000000000000
-	go.opentelemetry.io/otel v0.19.0
-	go.opentelemetry.io/otel/oteltest v0.19.0
-	go.opentelemetry.io/otel/trace v0.19.0
+	go.opentelemetry.io/otel v0.20.0
+	go.opentelemetry.io/otel/oteltest v0.20.0
+	go.opentelemetry.io/otel/trace v0.20.0
 )
